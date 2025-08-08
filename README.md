@@ -5,10 +5,10 @@ Demo Project:
 4. You will see result
 
 Create Database:
-1.Open XAMPP
-2.Touch button Admin
-3.write query(sql) Create database and Create table
-4.Edit in code db.php file:
+1. Open XAMPP
+2. Touch button Admin
+3. write query(sql) Create database and Create table
+4. Edit in code db.php file:
   a. sever
   b. username
   c. pass
